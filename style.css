@@ -35,3 +35,17 @@ header{
     padding: 15px;
     margin-top: 30px;
  }
+ .presentacion{
+    background-color: white;
+    padding: 25px;
+    border-radius: 10px;
+    text-align: center;
+    margin-bottom: 30px;
+ }
+ .presentacion h2{
+    color: #1e3a5f;
+    margin-bottom: 15px;
+ }
+ .presentacion p{
+    margin-bottom: 20px;
+ }
