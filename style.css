@@ -49,3 +49,15 @@ header{
  .presentacion p{
     margin-bottom: 20px;
  }
+ .tarjetas{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+ }
+ .tarjeta{
+    background-color: white;
+    width: 250px;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+ }
