@@ -28,3 +28,10 @@ header{
     margin: 0 15px;
     font-weight: bold;
  }
+ footer{
+    background-color: #142840;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 30px;
+ }
